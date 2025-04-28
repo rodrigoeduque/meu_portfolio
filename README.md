@@ -1,6 +1,3 @@
-Claro! Aqui está o seu README formatado em **Markdown**:
-
-```markdown
 # Portfolio API - Backend Pessoal Java
 
 📋 **Descrição do Projeto**
@@ -231,7 +228,3 @@ Rodrigo - rodrigoeduque@hotmail.com
 
 Link do projeto: [https://github.com/seu-usuario/portfolio-api](https://github.com/seu-usuario/portfolio-api)
 ```
-
----
-
-Se quiser, também posso gerar uma versão `.md` pronta para você baixar. Quer que eu prepare? 🚀
